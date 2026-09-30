@@ -1,13 +1,13 @@
-D1	Information retrieval systems use inverted indexes for efficient search
+D1	Information information REtrieval systems use inverted indexes for efficient search
 D2	The vector space model represents documents and queries as vectors
 D3	Boolean retrieval uses AND OR and NOT operators
 D4	TF IDF measures the importance of terms in documents
 D5	Search engines rank documents according to their relevance
 D6	BM25 is a ranking function used in information retrieval
 D7	Neural information retrieval uses deep learning models
-D8	Dense retrieval represents queries and documents using embeddings
+D8	Vector databases support similarity search over embeddings
 D9	Vector databases support similarity search over embeddings
-D10	Search engines use inverted indexes to retrieve documents efficiently
+D10	Search engines use inverted indexes to retrieve documents efficiently so search engines are envolving
 D11	Inverted indexes map terms to the documents that contain them
 D12	Tokenization splits text into individual words or terms
 D13	Stemming reduces words to their root or base form
